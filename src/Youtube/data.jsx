@@ -1,23 +1,13 @@
 export const data = [
   {
-    title: "Talking Tech and AI with Google CEO Sundar Pichai!",
+    title:
+      "study with me in rain | ⛈ thunderstorm sound | 1-hour pomodoro 2x25",
     picture: "../profile-photo/channel-1.jpeg",
-    time: "14:20",
+    time: "1:00:55",
     channel: {
-      picture: "../thunmnail/ph1.png",
-      name: "Marques Brownlee",
-      views: "34000000",
-      time: "7",
-    },
-  },
-  {
-    title: "Study with me for 2 hours, no music!",
-    picture: "../profile-photo/channel-2.jpg",
-    time: "20:20",
-    channel: {
-      picture: "../thunmnail/ph2.jpg",
-      name: "promodo",
-      views: "999000",
+      picture: "../thunmnail/ph1.jpg",
+      name: "Mango Oatmilk",
+      views: "24345000",
       time: "120",
     },
   },
@@ -85,6 +75,17 @@ export const data = [
       picture: "../thunmnail/ph7.jpg",
       name: "Starter Story",
       views: "50000000",
+      time: "120",
+    },
+  },
+  {
+    title: "Study with me for 2 hours, no music!",
+    picture: "../profile-photo/channel-2.jpg",
+    time: "20:20",
+    channel: {
+      picture: "../thunmnail/ph2.jpg",
+      name: "promodo",
+      views: "999000",
       time: "120",
     },
   },
